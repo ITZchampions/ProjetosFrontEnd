@@ -24,6 +24,10 @@ body{
     height: 85px;
 }
 
+.header-image:hover{
+    background-color: rgba(43, 37, 37, 0.445);
+}
+
 .header-menu{
     display: flex;
     gap: 32px;
